@@ -1,0 +1,26 @@
+.Logosito{
+    width: 50px;
+    height: 50px;
+}
+
+.nav-custom{
+    background-color: rgba(148, 161, 135, 0.782);
+}
+
+header{
+    background-image: url(./img/sfondo\ header.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+
+h1{
+    color: rgb(188, 170, 153);
+    letter-spacing: 10px;
+    font-size: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.img-cardcustom{
+    width: 300px;
+    margin: 10px;
+}
